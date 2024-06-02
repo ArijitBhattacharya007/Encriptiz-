@@ -1,22 +1,12 @@
-# Default ignored files
-/shelf/
-/.idea/workspace.xml
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-
-.idea
-
-out
-
-# Ignore Gradle project-specific cache directory
-.gradle
-
-# Ignore Gradle build output directory
-build
-
-gradle
-
-settings.gradle
+CMakeLists.txt.user
+build/
+alarm-clock*tar.gz*
+*~
+*#
+obj-*
+.debhelper/
+*.debhelper.log
+*.substvars
+*-build-stamp
+debian/alarm-clock-applet
+debian/files
