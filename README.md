@@ -1,2 +1,5 @@
-# qotd-nodejs
-Node.js Quote Of The Day app that is used by multiple tutorials, blog posts, etc.
+UniversityAttendance
+====================
+
+Android app for Teachers to take student attendance
+Android 2.2 API level 8
